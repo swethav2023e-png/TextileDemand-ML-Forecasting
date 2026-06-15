@@ -32,4 +32,8 @@ streamlit run text.py
 ```
 
 ## Author
-Swetha V
+## Contributors
+
+- Swetha V (Machine Learning Model, Streamlit Dashboard)
+- Sathya Sree M (Data Preprocessing ,UI Design and Testing)
+
